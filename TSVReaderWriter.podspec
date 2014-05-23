@@ -1,29 +1,22 @@
 Pod::Spec.new do |s|
   s.name         = "TSVReaderWriter"
   s.version      = "0.0.1"
-  s.summary      = "A short description of TSVReaderWriter."
+  s.summary      = "Tab separated value based file reader/writer class - TSVReaderWriter. Supports large files"
 
   s.description  = <<-DESC
-                   A longer description of TSVReaderWriter in Markdown format.
+                * Reads and writes tab separated files. 
+		* Converts file into NSArray and vice-versa. 
+                  DESC
 
-                   * Think: Why did you write this? What is the focus? What does it do?
-                   * CocoaPods will be using this to generate tags, and improve search results.
-                   * Try to keep it short, snappy and to the point.
-                   * Finally, don't worry about the indent, CocoaPods strips it!
-                   DESC
-
-  s.homepage     = "http://EXAMPLE/TSVReaderWriter"
+  s.homepage     = "http://isandor.com"
   s.license      = {:type => 'MIT', :file => 'LICENSE'}
   s.author             = { "Sandor Kolotenko" => "s" }
   s.social_media_url   = "http://twitter.com/iSandor"
 
   s.platform     = :ios
-  s.platform     = :ios, "5.0"
-  s.source       = { :git => "http://EXAMPLE/TSVReaderWriter.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/SandorUK/TSVReaderWriter.git", :tag => "0.0.1" }
 
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
-
-  s.resources = "Resources/*.png"
+  s.source_files  = "TSVTestBed/TSVReaderWriter.{h,m}"
+  s.resources = "TSVTestBed/*.tsv"
 end

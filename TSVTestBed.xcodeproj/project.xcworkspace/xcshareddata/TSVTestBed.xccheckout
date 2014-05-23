@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FDB31837-2E69-4226-AC96-7A3B7D6B683B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TSVTestBed</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>35885D7E-6DF8-405A-A88F-C339BC1B5259</key>
+		<string>https://github.com/SandorUK/TSVReaderWriter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TSVTestBed.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>35885D7E-6DF8-405A-A88F-C339BC1B5259</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SandorUK/TSVReaderWriter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35885D7E-6DF8-405A-A88F-C339BC1B5259</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35885D7E-6DF8-405A-A88F-C339BC1B5259</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TSVTestBed</string>
+		</dict>
+	</array>
+</dict>
+</plist>
