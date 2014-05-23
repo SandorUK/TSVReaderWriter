@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.source       = { :git => "https://github.com/SandorUK/TSVReaderWriter.git", :tag => "0.0.1" }
 
-
+  s.requires_arc = true
   s.source_files  = "TSVTestBed/TSVReaderWriter.{h,m}"
   s.resources = "TSVTestBed/*.tsv"
 end
